@@ -19,3 +19,6 @@ projects:
   - name: starlette-admin
     github_id: jowilf/starlette-admin
     category: "miscellaneous"
+  - name: fastapi-admin
+    github_id: fastapi-admin/fastapi-admin
+    category: "miscellaneous"
