@@ -16,3 +16,6 @@ projects:
   - name: sqladmin
     github_id: aminalaee/sqladmin
     category: "miscellaneous"
+  - name: starlette-admin
+    github_id: jowilf/starlette-admin
+    category: "miscellaneous"
