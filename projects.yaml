@@ -13,3 +13,6 @@ projects:
   - name: flask-admin
     github_id: pallets-eco/flask-admin
     category: "miscellaneous"
+  - name: sqladmin
+    github_id: aminalaee/sqladmin
+    category: "miscellaneous"
