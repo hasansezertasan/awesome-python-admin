@@ -55,28 +55,28 @@ _If you can think of a more appropriate category for the items below, PRs welcom
 	git clone https://github.com/pallets-eco/flask-admin
 	```
 </details>
-<details><summary><b><a href="https://github.com/aminalaee/sqladmin">sqladmin</a></b> (🥈25 ·  ⭐ 2.4K) - SQLAlchemy Admin for FastAPI and Starlette. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+<details><summary><b><a href="https://github.com/aminalaee/sqladmin">sqladmin</a></b> (🥈26 ·  ⭐ 2.6K · 📈) - SQLAlchemy Admin for FastAPI and Starlette. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/aminalaee/sqladmin) (👨‍💻 78 · 🔀 250 · 📦 1.8K · 📋 280 - 26% open · ⏱️ 17.11.2025):
+- [GitHub](https://github.com/aminalaee/sqladmin) (👨‍💻 81 · 🔀 250 · 📦 1.8K · 📋 280 - 25% open · ⏱️ 27.11.2025):
 
 	```
 	git clone https://github.com/aminalaee/sqladmin
 	```
 </details>
-<details><summary><b><a href="https://github.com/jowilf/starlette-admin">starlette-admin</a></b> (🥉22 ·  ⭐ 850) - Fast, beautiful and extensible administrative interface.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/jowilf/starlette-admin) (👨‍💻 27 · 🔀 81 · 📦 1.1K · 📋 230 - 31% open · ⏱️ 14.10.2025):
-
-	```
-	git clone https://github.com/jowilf/starlette-admin
-	```
-</details>
-<details><summary><b><a href="https://github.com/fastapi-admin/fastapi-admin">fastapi-admin</a></b> (🥉21 ·  ⭐ 3.5K · 💤) - A fast admin dashboard based on FastAPI and TortoiseORM.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/fastapi-admin/fastapi-admin">fastapi-admin</a></b> (🥉21 ·  ⭐ 3.6K · 💤) - A fast admin dashboard based on FastAPI and TortoiseORM.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/fastapi-admin/fastapi-admin) (👨‍💻 18 · 🔀 440 · 📦 510 · 📋 130 - 44% open · ⏱️ 05.04.2025):
 
 	```
 	git clone https://github.com/fastapi-admin/fastapi-admin
+	```
+</details>
+<details><summary><b><a href="https://github.com/jowilf/starlette-admin">starlette-admin</a></b> (🥉21 ·  ⭐ 970 · 📉) - Fast, beautiful and extensible administrative interface.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/jowilf/starlette-admin) (👨‍💻 27 · 🔀 81 · 📦 1.1K · 📋 230 - 31% open · ⏱️ 14.10.2025):
+
+	```
+	git clone https://github.com/jowilf/starlette-admin
 	```
 </details>
 
