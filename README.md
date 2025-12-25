@@ -49,7 +49,7 @@ _If you can think of a more appropriate category for the items below, PRs welcom
 
 <details><summary><b><a href="https://github.com/pallets-eco/flask-admin">flask-admin</a></b> (🥇35 ·  ⭐ 6.1K) - Simple and extensible administrative interface framework for Flask. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/pallets-eco/flask-admin) (👨‍💻 380 · 🔀 1.6K · 📥 550 · 📦 33K · 📋 1.5K - 8% open · ⏱️ 17.12.2025):
+- [GitHub](https://github.com/pallets-eco/flask-admin) (👨‍💻 390 · 🔀 1.6K · 📥 560 · 📦 33K · 📋 1.5K - 7% open · ⏱️ 25.12.2025):
 
 	```
 	git clone https://github.com/pallets-eco/flask-admin
@@ -57,21 +57,21 @@ _If you can think of a more appropriate category for the items below, PRs welcom
 </details>
 <details><summary><b><a href="https://github.com/aminalaee/sqladmin">sqladmin</a></b> (🥈26 ·  ⭐ 2.6K) - SQLAlchemy Admin for FastAPI and Starlette. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/aminalaee/sqladmin) (👨‍💻 81 · 🔀 250 · 📦 1.8K · 📋 280 - 25% open · ⏱️ 27.11.2025):
+- [GitHub](https://github.com/aminalaee/sqladmin) (👨‍💻 81 · 🔀 260 · 📦 1.8K · 📋 290 - 25% open · ⏱️ 27.11.2025):
 
 	```
 	git clone https://github.com/aminalaee/sqladmin
 	```
 </details>
-<details><summary><b><a href="https://github.com/jowilf/starlette-admin">starlette-admin</a></b> (🥉23 ·  ⭐ 950 · 📈) - Fast, beautiful and extensible administrative interface.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/jowilf/starlette-admin">starlette-admin</a></b> (🥉23 ·  ⭐ 960) - Fast, beautiful and extensible administrative interface.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/jowilf/starlette-admin) (👨‍💻 28 · 🔀 80 · 📦 1.1K · 📋 240 - 30% open · ⏱️ 13.12.2025):
+- [GitHub](https://github.com/jowilf/starlette-admin) (👨‍💻 28 · 🔀 81 · 📦 1.1K · 📋 240 - 30% open · ⏱️ 13.12.2025):
 
 	```
 	git clone https://github.com/jowilf/starlette-admin
 	```
 </details>
-<details><summary><b><a href="https://github.com/fastapi-admin/fastapi-admin">fastapi-admin</a></b> (🥉21 ·  ⭐ 3.6K · 💤) - A fast admin dashboard based on FastAPI and TortoiseORM.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/fastapi-admin/fastapi-admin">fastapi-admin</a></b> (🥉21 ·  ⭐ 3.7K · 💤) - A fast admin dashboard based on FastAPI and TortoiseORM.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/fastapi-admin/fastapi-admin) (👨‍💻 18 · 🔀 440 · 📦 510 · 📋 130 - 43% open · ⏱️ 05.04.2025):
 
