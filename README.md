@@ -47,9 +47,9 @@ This curated list contains 4 awesome open-source projects with a total of 13K st
 
 _If you can think of a more appropriate category for the items below, PRs welcome!_
 
-<details><summary><b><a href="https://github.com/pallets-eco/flask-admin">flask-admin</a></b> (🥇34 ·  ⭐ 6K · 📉) - Simple and extensible administrative interface framework for.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+<details><summary><b><a href="https://github.com/pallets-eco/flask-admin">flask-admin</a></b> (🥇34 ·  ⭐ 6.1K) - Simple and extensible administrative interface framework for Flask. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/pallets-eco/flask-admin) (👨‍💻 390 · 🔀 1.6K · 📥 570 · 📦 33K · 📋 1.5K - 7% open · ⏱️ 20.01.2026):
+- [GitHub](https://github.com/pallets-eco/flask-admin) (👨‍💻 390 · 🔀 1.6K · 📥 570 · 📦 33K · 📋 1.5K - 7% open · ⏱️ 02.02.2026):
 
 	```
 	git clone https://github.com/pallets-eco/flask-admin
@@ -57,7 +57,7 @@ _If you can think of a more appropriate category for the items below, PRs welcom
 </details>
 <details><summary><b><a href="https://github.com/aminalaee/sqladmin">sqladmin</a></b> (🥈26 ·  ⭐ 2.6K) - SQLAlchemy Admin for FastAPI and Starlette. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/aminalaee/sqladmin) (👨‍💻 84 · 🔀 260 · 📦 1.8K · 📋 290 - 24% open · ⏱️ 02.01.2026):
+- [GitHub](https://github.com/aminalaee/sqladmin) (👨‍💻 84 · 🔀 260 · 📦 1.8K · 📋 290 - 24% open · ⏱️ 04.02.2026):
 
 	```
 	git clone https://github.com/aminalaee/sqladmin
@@ -65,7 +65,7 @@ _If you can think of a more appropriate category for the items below, PRs welcom
 </details>
 <details><summary><b><a href="https://github.com/jowilf/starlette-admin">starlette-admin</a></b> (🥉23 ·  ⭐ 970) - Fast, beautiful and extensible administrative interface.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/jowilf/starlette-admin) (👨‍💻 29 · 🔀 84 · 📦 1.1K · 📋 240 - 31% open · ⏱️ 13.01.2026):
+- [GitHub](https://github.com/jowilf/starlette-admin) (👨‍💻 29 · 🔀 85 · 📦 1.1K · 📋 240 - 31% open · ⏱️ 13.01.2026):
 
 	```
 	git clone https://github.com/jowilf/starlette-admin
@@ -73,7 +73,7 @@ _If you can think of a more appropriate category for the items below, PRs welcom
 </details>
 <details><summary><b><a href="https://github.com/fastapi-admin/fastapi-admin">fastapi-admin</a></b> (🥉21 ·  ⭐ 3.7K · 💤) - A fast admin dashboard based on FastAPI and TortoiseORM.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/fastapi-admin/fastapi-admin) (👨‍💻 19 · 🔀 450 · 📦 510 · 📋 130 - 43% open · ⏱️ 05.04.2025):
+- [GitHub](https://github.com/fastapi-admin/fastapi-admin) (👨‍💻 19 · 🔀 450 · 📦 510 · 📋 130 - 44% open · ⏱️ 05.04.2025):
 
 	```
 	git clone https://github.com/fastapi-admin/fastapi-admin
