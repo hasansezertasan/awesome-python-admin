@@ -65,7 +65,7 @@ _If you can think of a more appropriate category for the items below, PRs welcom
 </details>
 <details><summary><b><a href="https://github.com/jowilf/starlette-admin">starlette-admin</a></b> (🥉23 ·  ⭐ 980) - Fast, beautiful and extensible administrative interface.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/jowilf/starlette-admin) (👨‍💻 29 · 🔀 85 · 📦 1.1K · 📋 240 - 31% open · ⏱️ 13.01.2026):
+- [GitHub](https://github.com/jowilf/starlette-admin) (👨‍💻 29 · 🔀 84 · 📦 1.1K · 📋 240 - 32% open · ⏱️ 13.01.2026):
 
 	```
 	git clone https://github.com/jowilf/starlette-admin
