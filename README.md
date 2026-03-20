@@ -49,7 +49,7 @@ _If you can think of a more appropriate category for the items below, PRs welcom
 
 <details><summary><b><a href="https://github.com/pallets-eco/flask-admin">flask-admin</a></b> (🥇34 ·  ⭐ 6.1K) - Simple and extensible administrative interface framework for Flask. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/pallets-eco/flask-admin) (👨‍💻 390 · 🔀 1.6K · 📥 570 · 📦 33K · 📋 1.5K - 6% open · ⏱️ 04.03.2026):
+- [GitHub](https://github.com/pallets-eco/flask-admin) (👨‍💻 390 · 🔀 1.6K · 📥 570 · 📦 33K · 📋 1.5K - 6% open · ⏱️ 16.03.2026):
 
 	```
 	git clone https://github.com/pallets-eco/flask-admin
