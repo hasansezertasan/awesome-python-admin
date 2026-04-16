@@ -15,7 +15,7 @@
     <a href="https://github.com/hasansezertasan/awesome-python-admin/releases" title="Best-of Updates"><img src="https://img.shields.io/github/release-date/hasansezertasan/awesome-python-admin?color=green&label=updated"></a>
 </p>
 
-This curated list contains 4 awesome open-source projects with a total of 13K stars grouped into 1 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/hasansezertasan/awesome-python-admin/issues/new/choose), submit a [pull request](https://github.com/hasansezertasan/awesome-python-admin/pulls), or directly edit the [projects.yaml](https://github.com/hasansezertasan/awesome-python-admin/edit/main/projects.yaml). Contributions are very welcome!
+This curated list contains 4 awesome open-source projects with a total of 14K stars grouped into 1 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/hasansezertasan/awesome-python-admin/issues/new/choose), submit a [pull request](https://github.com/hasansezertasan/awesome-python-admin/pulls), or directly edit the [projects.yaml](https://github.com/hasansezertasan/awesome-python-admin/edit/main/projects.yaml). Contributions are very welcome!
 
 > 🧙‍♂️  Discover other [best-of lists](https://best-of.org) or [create your own](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
 
@@ -49,7 +49,7 @@ _If you can think of a more appropriate category for the items below, PRs welcom
 
 <details><summary><b><a href="https://github.com/pallets-eco/flask-admin">flask-admin</a></b> (🥇34 ·  ⭐ 6.1K) - Simple and extensible administrative interface framework for Flask. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/pallets-eco/flask-admin) (👨‍💻 390 · 🔀 1.6K · 📥 570 · 📦 33K · 📋 1.5K - 6% open · ⏱️ 09.04.2026):
+- [GitHub](https://github.com/pallets-eco/flask-admin) (👨‍💻 390 · 🔀 1.6K · 📥 600 · 📦 33K · 📋 1.5K - 6% open · ⏱️ 16.04.2026):
 
 	```
 	git clone https://github.com/pallets-eco/flask-admin
@@ -57,15 +57,15 @@ _If you can think of a more appropriate category for the items below, PRs welcom
 </details>
 <details><summary><b><a href="https://github.com/smithyhq/sqladmin">sqladmin</a></b> (🥈26 ·  ⭐ 2.7K) - SQLAlchemy Admin for FastAPI and Starlette. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/smithyhq/sqladmin) (👨‍💻 87 · 🔀 270 · 📦 1.8K · 📋 300 - 24% open · ⏱️ 31.03.2026):
+- [GitHub](https://github.com/smithyhq/sqladmin) (👨‍💻 87 · 🔀 270 · 📦 1.8K · 📋 300 - 23% open · ⏱️ 31.03.2026):
 
 	```
 	git clone https://github.com/aminalaee/sqladmin
 	```
 </details>
-<details><summary><b><a href="https://github.com/jowilf/starlette-admin">starlette-admin</a></b> (🥉23 ·  ⭐ 980) - Fast, beautiful and extensible administrative interface.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/jowilf/starlette-admin">starlette-admin</a></b> (🥉23 ·  ⭐ 990) - Fast, beautiful and extensible administrative interface.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/jowilf/starlette-admin) (👨‍💻 30 · 🔀 86 · 📦 1.1K · 📋 240 - 31% open · ⏱️ 07.03.2026):
+- [GitHub](https://github.com/jowilf/starlette-admin) (👨‍💻 31 · 🔀 87 · 📦 1.1K · 📋 240 - 31% open · ⏱️ 15.04.2026):
 
 	```
 	git clone https://github.com/jowilf/starlette-admin
