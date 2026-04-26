@@ -49,7 +49,7 @@ _If you can think of a more appropriate category for the items below, PRs welcom
 
 <details><summary><b><a href="https://github.com/pallets-eco/flask-admin">flask-admin</a></b> (🥇34 ·  ⭐ 6.1K) - Simple and extensible administrative interface framework for Flask. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/pallets-eco/flask-admin) (👨‍💻 390 · 🔀 1.6K · 📥 600 · 📦 33K · 📋 1.5K - 6% open · ⏱️ 16.04.2026):
+- [GitHub](https://github.com/pallets-eco/flask-admin) (👨‍💻 390 · 🔀 1.6K · 📥 610 · 📦 33K · 📋 1.5K - 6% open · ⏱️ 22.04.2026):
 
 	```
 	git clone https://github.com/pallets-eco/flask-admin
@@ -57,7 +57,7 @@ _If you can think of a more appropriate category for the items below, PRs welcom
 </details>
 <details><summary><b><a href="https://github.com/smithyhq/sqladmin">sqladmin</a></b> (🥈26 ·  ⭐ 2.7K) - SQLAlchemy Admin for FastAPI and Starlette. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/smithyhq/sqladmin) (👨‍💻 87 · 🔀 270 · 📦 1.8K · 📋 300 - 23% open · ⏱️ 31.03.2026):
+- [GitHub](https://github.com/smithyhq/sqladmin) (👨‍💻 94 · 🔀 280 · 📦 1.8K · 📋 300 - 19% open · ⏱️ 18.04.2026):
 
 	```
 	git clone https://github.com/aminalaee/sqladmin
@@ -65,7 +65,7 @@ _If you can think of a more appropriate category for the items below, PRs welcom
 </details>
 <details><summary><b><a href="https://github.com/jowilf/starlette-admin">starlette-admin</a></b> (🥉23 ·  ⭐ 990) - Fast, beautiful and extensible administrative interface.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/jowilf/starlette-admin) (👨‍💻 31 · 🔀 87 · 📦 1.1K · 📋 240 - 31% open · ⏱️ 15.04.2026):
+- [GitHub](https://github.com/jowilf/starlette-admin) (👨‍💻 31 · 🔀 90 · 📦 1.1K · 📋 240 - 31% open · ⏱️ 15.04.2026):
 
 	```
 	git clone https://github.com/jowilf/starlette-admin
@@ -73,7 +73,7 @@ _If you can think of a more appropriate category for the items below, PRs welcom
 </details>
 <details><summary><b><a href="https://github.com/fastapi-admin/fastapi-admin">fastapi-admin</a></b> (🥉21 ·  ⭐ 3.8K · 💤) - A fast admin dashboard based on FastAPI and TortoiseORM.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/fastapi-admin/fastapi-admin) (👨‍💻 19 · 🔀 450 · 📦 510 · 📋 130 - 45% open · ⏱️ 05.04.2025):
+- [GitHub](https://github.com/fastapi-admin/fastapi-admin) (👨‍💻 19 · 🔀 460 · 📦 510 · 📋 130 - 45% open · ⏱️ 05.04.2025):
 
 	```
 	git clone https://github.com/fastapi-admin/fastapi-admin
