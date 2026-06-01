@@ -49,7 +49,7 @@ _If you can think of a more appropriate category for the items below, PRs welcom
 
 <details><summary><b><a href="https://github.com/pallets-eco/flask-admin">flask-admin</a></b> (🥇34 ·  ⭐ 6.1K) - Simple and extensible administrative interface framework for Flask. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/pallets-eco/flask-admin) (👨‍💻 390 · 🔀 1.6K · 📥 630 · 📦 33K · 📋 1.5K - 6% open · ⏱️ 12.05.2026):
+- [GitHub](https://github.com/pallets-eco/flask-admin) (👨‍💻 390 · 🔀 1.6K · 📥 640 · 📦 33K · 📋 1.5K - 5% open · ⏱️ 26.05.2026):
 
 	```
 	git clone https://github.com/pallets-eco/flask-admin
@@ -57,7 +57,7 @@ _If you can think of a more appropriate category for the items below, PRs welcom
 </details>
 <details><summary><b><a href="https://github.com/smithyhq/sqladmin">sqladmin</a></b> (🥈26 ·  ⭐ 2.7K) - SQLAlchemy Admin for FastAPI and Starlette. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/smithyhq/sqladmin) (👨‍💻 95 · 🔀 280 · 📦 1.9K · 📋 300 - 20% open · ⏱️ 04.05.2026):
+- [GitHub](https://github.com/smithyhq/sqladmin) (👨‍💻 95 · 🔀 280 · 📦 1.9K · 📋 310 - 20% open · ⏱️ 18.05.2026):
 
 	```
 	git clone https://github.com/aminalaee/sqladmin
@@ -65,7 +65,7 @@ _If you can think of a more appropriate category for the items below, PRs welcom
 </details>
 <details><summary><b><a href="https://github.com/jowilf/starlette-admin">starlette-admin</a></b> (🥉23 ·  ⭐ 990) - Fast, beautiful and extensible administrative interface.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/jowilf/starlette-admin) (👨‍💻 31 · 🔀 92 · 📦 1.1K · 📋 250 - 31% open · ⏱️ 15.04.2026):
+- [GitHub](https://github.com/jowilf/starlette-admin) (👨‍💻 31 · 🔀 93 · 📦 1.1K · 📋 250 - 31% open · ⏱️ 15.04.2026):
 
 	```
 	git clone https://github.com/jowilf/starlette-admin
