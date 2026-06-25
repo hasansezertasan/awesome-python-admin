@@ -49,7 +49,7 @@ _If you can think of a more appropriate category for the items below, PRs welcom
 
 <details><summary><b><a href="https://github.com/pallets-eco/flask-admin">flask-admin</a></b> (🥇34 ·  ⭐ 6.1K) - Simple and extensible administrative interface framework for Flask. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/pallets-eco/flask-admin) (👨‍💻 390 · 🔀 1.6K · 📥 650 · 📦 33K · 📋 1.5K - 5% open · ⏱️ 14.06.2026):
+- [GitHub](https://github.com/pallets-eco/flask-admin) (👨‍💻 390 · 🔀 1.6K · 📥 650 · 📦 33K · 📋 1.5K - 5% open · ⏱️ 25.06.2026):
 
 	```
 	git clone https://github.com/pallets-eco/flask-admin
@@ -63,7 +63,7 @@ _If you can think of a more appropriate category for the items below, PRs welcom
 	git clone https://github.com/aminalaee/sqladmin
 	```
 </details>
-<details><summary><b><a href="https://github.com/jowilf/starlette-admin">starlette-admin</a></b> (🥉24 ·  ⭐ 990) - Fast, beautiful and extensible administrative interface.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/jowilf/starlette-admin">starlette-admin</a></b> (🥉24 ·  ⭐ 1K) - Fast, beautiful and extensible administrative interface.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/jowilf/starlette-admin) (👨‍💻 32 · 🔀 91 · 📦 1.1K · 📋 250 - 31% open · ⏱️ 08.06.2026):
 
