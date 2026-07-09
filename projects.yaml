@@ -17,6 +17,9 @@ categories:
   - category: "miscellaneous"
     title: "Miscellaneous"
     subtitle: "If you can think of a more appropriate category for the items below, PRs welcome!"
+  - category: "django-admin-themes"
+    title: "Django Admin Themes"
+    subtitle: "Projects that reskin or extend Django's built-in admin rather than providing a standalone admin panel."
 
 labels:
 
@@ -51,3 +54,39 @@ projects:
   - name: ohmyadmin
     github_id: alex-oleshkevich/ohmyadmin
     category: "miscellaneous"
+  - name: jet-bridge
+    github_id: jet-admin/jet-bridge
+    category: "miscellaneous"
+  - name: revolve
+    github_id: self-evolving-runtimes/revolve
+    category: "miscellaneous"
+  - name: gino-admin
+    github_id: xnuinside/gino-admin
+    category: "miscellaneous"
+  - name: oxyde-admin
+    github_id: mr-fatalyst/oxyde-admin
+    category: "miscellaneous"
+  - name: django-grappelli
+    github_id: sehmaschine/django-grappelli
+    category: "django-admin-themes"
+  - name: django-jet
+    github_id: geex-arts/django-jet
+    category: "django-admin-themes"
+  - name: django-unfold
+    github_id: unfoldadmin/django-unfold
+    category: "django-admin-themes"
+  - name: django-suit
+    github_id: darklow/django-suit
+    category: "django-admin-themes"
+  - name: django-admin-interface
+    github_id: fabiocaccamo/django-admin-interface
+    category: "django-admin-themes"
+  - name: django-jazzmin
+    github_id: farridav/django-jazzmin
+    category: "django-admin-themes"
+  - name: django-baton
+    github_id: otto-torino/django-baton
+    category: "django-admin-themes"
+  - name: django-smartbase-admin
+    github_id: SmartBase-SK/django-smartbase-admin
+    category: "django-admin-themes"
