@@ -10,25 +10,25 @@
 
 <p align="center">
     <a href="https://best-of.org" title="Best-of Badge"><img src="http://bit.ly/3o3EHNN"></a>
-    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-4-blue.svg?color=5ac4bf"></a>
+    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-10-blue.svg?color=5ac4bf"></a>
     <a href="#Contribution" title="Contributions are welcome"><img src="https://img.shields.io/badge/contributions-welcome-green.svg"></a>
     <a href="https://github.com/hasansezertasan/awesome-python-admin/releases" title="Best-of Updates"><img src="https://img.shields.io/github/release-date/hasansezertasan/awesome-python-admin?color=green&label=updated"></a>
 </p>
 
-This curated list contains 4 awesome open-source projects with a total of 14K stars grouped into 1 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/hasansezertasan/awesome-python-admin/issues/new/choose), submit a [pull request](https://github.com/hasansezertasan/awesome-python-admin/pulls), or directly edit the [projects.yaml](https://github.com/hasansezertasan/awesome-python-admin/edit/main/projects.yaml). Contributions are very welcome!
+This curated list contains 10 awesome open-source projects with a total of 21K stars grouped into 1 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/hasansezertasan/awesome-python-admin/issues/new/choose), submit a [pull request](https://github.com/hasansezertasan/awesome-python-admin/pulls), or directly edit the [projects.yaml](https://github.com/hasansezertasan/awesome-python-admin/edit/main/projects.yaml). Contributions are very welcome!
 
 > 🧙‍♂️  Discover other [best-of lists](https://best-of.org) or [create your own](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
 
 ## Contents
 
-- [Miscellaneous](#miscellaneous) _4 projects_
+- [Miscellaneous](#miscellaneous) _10 projects_
 
 ## Explanation
 - 🥇🥈🥉&nbsp; Combined project-quality score
 - ⭐️&nbsp; Star count from GitHub
 - 🐣&nbsp; New project _(less than 6 months old)_
 - 💤&nbsp; Inactive project _(6 months no activity)_
-- 💀&nbsp; Dead project _(12 months no activity)_
+- 💀&nbsp; Dead project _(10000 months no activity)_
 - 📈📉&nbsp; Project is trending up or down
 - ➕&nbsp; Project was recently added
 - ❗️&nbsp; Warning _(e.g. missing/risky license)_
@@ -49,31 +49,83 @@ _If you can think of a more appropriate category for the items below, PRs welcom
 
 <details><summary><b><a href="https://github.com/pallets-eco/flask-admin">flask-admin</a></b> (🥇34 ·  ⭐ 6.1K) - Simple and extensible administrative interface framework for Flask. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/pallets-eco/flask-admin) (👨‍💻 390 · 🔀 1.6K · 📥 650 · 📦 33K · 📋 1.5K - 5% open · ⏱️ 25.06.2026):
+- [GitHub](https://github.com/pallets-eco/flask-admin) (👨‍💻 390 · 🔀 1.6K · 📥 660 · 📦 33K · 📋 1.5K - 5% open · ⏱️ 08.07.2026):
 
 	```
 	git clone https://github.com/pallets-eco/flask-admin
 	```
 </details>
+<details><summary><b><a href="https://github.com/dpgaspar/Flask-AppBuilder">flask-appbuilder</a></b> (🥈27 ·  ⭐ 5K · ➕) - Simple and rapid application development framework, built.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+
+- [GitHub](https://github.com/dpgaspar/Flask-AppBuilder) (👨‍💻 230 · 🔀 1.4K · 📋 1.3K - 15% open · ⏱️ 23.06.2026):
+
+	```
+	git clone https://github.com/dpgaspar/Flask-AppBuilder
+	```
+</details>
 <details><summary><b><a href="https://github.com/smithyhq/sqladmin">sqladmin</a></b> (🥈27 ·  ⭐ 2.8K) - SQLAlchemy Admin for FastAPI and Starlette. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/smithyhq/sqladmin) (👨‍💻 99 · 🔀 280 · 📦 1.9K · 📋 310 - 17% open · ⏱️ 08.06.2026):
+- [GitHub](https://github.com/smithyhq/sqladmin) (👨‍💻 100 · 🔀 280 · 📦 1.9K · 📋 310 - 16% open · ⏱️ 08.07.2026):
 
 	```
 	git clone https://github.com/aminalaee/sqladmin
 	```
 </details>
-<details><summary><b><a href="https://github.com/jowilf/starlette-admin">starlette-admin</a></b> (🥉24 ·  ⭐ 1K) - Fast, beautiful and extensible administrative interface.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/jowilf/starlette-admin">starlette-admin</a></b> (🥈24 ·  ⭐ 1K) - Fast, beautiful and extensible administrative interface.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/jowilf/starlette-admin) (👨‍💻 32 · 🔀 91 · 📦 1.1K · 📋 250 - 31% open · ⏱️ 08.06.2026):
+- [GitHub](https://github.com/jowilf/starlette-admin) (👨‍💻 32 · 🔀 92 · 📦 1.1K · 📋 250 - 31% open · ⏱️ 08.06.2026):
 
 	```
 	git clone https://github.com/jowilf/starlette-admin
 	```
 </details>
-<details><summary>Show 1 hidden projects...</summary>
+<details><summary><b><a href="https://github.com/fastapi-admin/fastapi-admin">fastapi-admin</a></b> (🥉21 ·  ⭐ 3.8K · 💤) - A fast admin dashboard based on FastAPI and TortoiseORM.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- <b><a href="https://github.com/fastapi-admin/fastapi-admin">fastapi-admin</a></b> (🥉21 ·  ⭐ 3.8K · 💀) - A fast admin dashboard based on FastAPI and TortoiseORM.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- [GitHub](https://github.com/fastapi-admin/fastapi-admin) (👨‍💻 19 · 🔀 460 · 📦 510 · 📋 130 - 45% open · ⏱️ 05.04.2025):
+
+	```
+	git clone https://github.com/fastapi-admin/fastapi-admin
+	```
+</details>
+<details><summary><b><a href="https://github.com/vsdudakov/fastadmin">fastadmin</a></b> (🥉20 ·  ⭐ 310 · ➕) - Easy-to-use admin dashboard (admin panel) for FastAPI, Flask and.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/vsdudakov/fastadmin) (👨‍💻 9 · 🔀 36 · 📦 58 · ⏱️ 08.07.2026):
+
+	```
+	git clone https://github.com/vsdudakov/fastadmin
+	```
+</details>
+<details><summary><b><a href="https://github.com/amisadmin/fastapi-amis-admin">fastapi-amis-admin</a></b> (🥉17 ·  ⭐ 1.6K · 💤) - FastAPI-Amis-Admin is a high-performance, efficient.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+
+- [GitHub](https://github.com/amisadmin/fastapi-amis-admin) (👨‍💻 21 · 🔀 220 · 📋 160 - 43% open · ⏱️ 03.07.2025):
+
+	```
+	git clone https://github.com/amisadmin/fastapi-amis-admin
+	```
+</details>
+<details><summary><b><a href="https://github.com/piccolo-orm/piccolo_admin">piccolo_admin</a></b> (🥉17 ·  ⭐ 470 · ➕) - A powerful web admin for your database. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/piccolo-orm/piccolo_admin) (👨‍💻 23 · 🔀 47 · 📋 180 - 16% open · ⏱️ 19.06.2026):
+
+	```
+	git clone https://github.com/piccolo-orm/piccolo_admin
+	```
+</details>
+<details><summary><b><a href="https://github.com/benavlabs/crudadmin">crudadmin</a></b> (🥉17 ·  ⭐ 450 · ➕) - Modern admin interface for FastAPI with built-in authentication,.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/benavlabs/crudadmin) (👨‍💻 13 · 🔀 30 · 📦 5 · 📋 20 - 10% open · ⏱️ 08.06.2026):
+
+	```
+	git clone https://github.com/benavlabs/crudadmin
+	```
+</details>
+<details><summary><b><a href="https://github.com/alex-oleshkevich/ohmyadmin">ohmyadmin</a></b> (🥉7 ·  ⭐ 1 · 💤) - The framework to build back-office apps or admin panels for Starlette. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/alex-oleshkevich/ohmyadmin) (📦 4 · 📋 4 - 50% open · ⏱️ 30.04.2024):
+
+	```
+	git clone https://github.com/alex-oleshkevich/ohmyadmin
+	```
 </details>
 
 ---
