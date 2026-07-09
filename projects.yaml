@@ -33,3 +33,21 @@ projects:
   - name: fastapi-admin
     github_id: fastapi-admin/fastapi-admin
     category: "miscellaneous"
+  - name: flask-appbuilder
+    github_id: dpgaspar/Flask-AppBuilder
+    category: "miscellaneous"
+  - name: fastapi-amis-admin
+    github_id: amisadmin/fastapi-amis-admin
+    category: "miscellaneous"
+  - name: piccolo_admin
+    github_id: piccolo-orm/piccolo_admin
+    category: "miscellaneous"
+  - name: fastadmin
+    github_id: vsdudakov/fastadmin
+    category: "miscellaneous"
+  - name: crudadmin
+    github_id: benavlabs/crudadmin
+    category: "miscellaneous"
+  - name: ohmyadmin
+    github_id: alex-oleshkevich/ohmyadmin
+    category: "miscellaneous"
