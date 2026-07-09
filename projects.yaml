@@ -1,6 +1,17 @@
 configuration:
   markdown_header_file: "config/header.md"
   markdown_footer_file: "config/footer.md"
+  # This list is small and curated, so every project should be shown directly
+  # rather than collapsed into a "Show N hidden projects..." section. Loosen all
+  # the filters best-of uses to hide projects.
+  min_projectrank: 0
+  min_stars: 0
+  require_license: false
+  require_repo: false
+  # Effectively never mark projects "dead"; best-of hides dead projects in a
+  # "Show N hidden projects..." collapse. Large value (not 0) so behavior doesn't
+  # depend on best-of's falsy guard. Also disables the 💀 dead-project marker.
+  project_dead_months: 10000
 
 categories:
   - category: "miscellaneous"
