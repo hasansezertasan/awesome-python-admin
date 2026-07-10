@@ -120,7 +120,7 @@ _If you can think of a more appropriate category for the items below, PRs welcom
 	git clone https://github.com/benavlabs/crudadmin
 	```
 </details>
-<details><summary><b><a href="https://github.com/jet-admin/jet-bridge">jet-bridge</a></b> (🥉16 ·  ⭐ 1.8K · ➕) - Jet Admin No-code Business App builder. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/jet-admin/jet-bridge">jet-bridge</a></b> (🥉16 ·  ⭐ 1.8K) - Jet Admin No-code Business App builder. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/jet-admin/jet-bridge) (👨‍💻 4 · 🔀 170 · 📋 25 - 40% open · ⏱️ 20.02.2026):
 
@@ -168,7 +168,7 @@ _If you can think of a more appropriate category for the items below, PRs welcom
 
 _Projects that reskin or extend Django's built-in admin rather than providing a standalone admin panel._
 
-<details><summary><b><a href="https://github.com/unfoldadmin/django-unfold">django-unfold</a></b> (🥇29 ·  ⭐ 3.5K · ➕) - Modern Django Admin. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/unfoldadmin/django-unfold">django-unfold</a></b> (🥇29 ·  ⭐ 3.6K) - Modern Django Admin. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/unfoldadmin/django-unfold) (👨‍💻 67 · 🔀 360 · 📦 1.9K · 📋 730 - 1% open · ⏱️ 08.07.2026):
 
@@ -176,7 +176,7 @@ _Projects that reskin or extend Django's built-in admin rather than providing a 
 	git clone https://github.com/unfoldadmin/django-unfold
 	```
 </details>
-<details><summary><b><a href="https://github.com/farridav/django-jazzmin">django-jazzmin</a></b> (🥇29 ·  ⭐ 1.9K · ➕) - Jazzy theme for Django. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/farridav/django-jazzmin">django-jazzmin</a></b> (🥇29 ·  ⭐ 1.9K) - Jazzy theme for Django. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/farridav/django-jazzmin) (👨‍💻 80 · 🔀 320 · 📦 18K · 📋 320 - 45% open · ⏱️ 16.06.2026):
 
@@ -184,7 +184,7 @@ _Projects that reskin or extend Django's built-in admin rather than providing a 
 	git clone https://github.com/farridav/django-jazzmin
 	```
 </details>
-<details><summary><b><a href="https://github.com/fabiocaccamo/django-admin-interface">django-admin-interface</a></b> (🥈27 ·  ⭐ 2K · ➕) - djangos default admin interface with superpowers -.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/fabiocaccamo/django-admin-interface">django-admin-interface</a></b> (🥈27 ·  ⭐ 2K) - djangos default admin interface with superpowers -.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/fabiocaccamo/django-admin-interface) (👨‍💻 46 · 🔀 190 · 📦 5.3K · 📋 220 - 4% open · ⏱️ 11.05.2026):
 
@@ -192,7 +192,7 @@ _Projects that reskin or extend Django's built-in admin rather than providing a 
 	git clone https://github.com/fabiocaccamo/django-admin-interface
 	```
 </details>
-<details><summary><b><a href="https://github.com/otto-torino/django-baton">django-baton</a></b> (🥉24 ·  ⭐ 990 · ➕) - A cool, modern and responsive django admin application based on.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/otto-torino/django-baton">django-baton</a></b> (🥉24 ·  ⭐ 990) - A cool, modern and responsive django admin application based on.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/otto-torino/django-baton) (👨‍💻 19 · 🔀 96 · 📦 470 · 📋 190 - 1% open · ⏱️ 02.07.2026):
 
@@ -200,7 +200,7 @@ _Projects that reskin or extend Django's built-in admin rather than providing a 
 	git clone https://github.com/otto-torino/django-baton
 	```
 </details>
-<details><summary><b><a href="https://github.com/sehmaschine/django-grappelli">django-grappelli</a></b> (🥉23 ·  ⭐ 3.9K · ➕) - A jazzy skin for the Django Admin-Interface (official.. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/sehmaschine/django-grappelli">django-grappelli</a></b> (🥉23 ·  ⭐ 3.9K) - A jazzy skin for the Django Admin-Interface (official.. <code>❗Unlicensed</code></summary>
 
 - [GitHub](https://github.com/sehmaschine/django-grappelli) (👨‍💻 91 · 🔀 640 · 📦 6.9K · 📋 740 - 0% open · ⏱️ 29.04.2026):
 
@@ -224,7 +224,7 @@ _Projects that reskin or extend Django's built-in admin rather than providing a 
 	git clone https://github.com/darklow/django-suit
 	```
 </details>
-<details><summary><b><a href="https://github.com/SmartBase-SK/django-smartbase-admin">django-smartbase-admin</a></b> (🥉14 ·  ⭐ 120 · ➕) - SmartBase Admin application for Django. A modern,.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/SmartBase-SK/django-smartbase-admin">django-smartbase-admin</a></b> (🥉14 ·  ⭐ 120) - SmartBase Admin application for Django. A modern,.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/SmartBase-SK/django-smartbase-admin) (👨‍💻 17 · 🔀 10 · 📦 3 · 📋 3 - 66% open · ⏱️ 09.07.2026):
 
