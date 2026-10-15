@@ -48,23 +48,15 @@ This curated list contains 22 awesome open-source projects with a total of 42K s
 
 _If you can think of a more appropriate category for the items below, PRs welcome!_
 
-<details><summary><b><a href="https://github.com/pallets-eco/flask-admin">flask-admin</a></b> (🥇34 ·  ⭐ 6.1K · 📈) - Simple and extensible administrative interface framework for.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+<details><summary><b><a href="https://github.com/pallets-eco/flask-admin">flask-admin</a></b> (🥇33 ·  ⭐ 6.1K · 📉) - Simple and extensible administrative interface framework for.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/pallets-eco/flask-admin) (👨‍💻 400 · 🔀 1.6K · 📥 810 · 📦 33K · 📋 1.5K - 5% open · ⏱️ 04.10.2026):
+- [GitHub](https://github.com/pallets-eco/flask-admin) (👨‍💻 400 · 🔀 1.6K · 📥 870 · 📦 33K · 📋 1.5K - 5% open · ⏱️ 13.10.2026):
 
 	```
 	git clone https://github.com/pallets-eco/flask-admin
 	```
 </details>
-<details><summary><b><a href="https://github.com/smithyhq/sqladmin">sqladmin</a></b> (🥇27 ·  ⭐ 2.8K · 📈) - SQLAlchemy Admin for FastAPI and Starlette. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
-
-- [GitHub](https://github.com/smithyhq/sqladmin) (👨‍💻 110 · 🔀 290 · 📦 1.9K · 📋 320 - 8% open · ⏱️ 20.09.2026):
-
-	```
-	git clone https://github.com/aminalaee/sqladmin
-	```
-</details>
-<details><summary><b><a href="https://github.com/dpgaspar/Flask-AppBuilder">flask-appbuilder</a></b> (🥈26 ·  ⭐ 5K · 📈) - Simple and rapid application development framework, built.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+<details><summary><b><a href="https://github.com/dpgaspar/Flask-AppBuilder">flask-appbuilder</a></b> (🥇26 ·  ⭐ 5K) - Simple and rapid application development framework, built on.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
 - [GitHub](https://github.com/dpgaspar/Flask-AppBuilder) (👨‍💻 230 · 🔀 1.4K · 📋 1.3K - 15% open · ⏱️ 08.10.2026):
 
@@ -72,9 +64,17 @@ _If you can think of a more appropriate category for the items below, PRs welcom
 	git clone https://github.com/dpgaspar/Flask-AppBuilder
 	```
 </details>
+<details><summary><b><a href="https://github.com/smithyhq/sqladmin">sqladmin</a></b> (🥇26 ·  ⭐ 2.8K · 📉) - SQLAlchemy Admin for FastAPI and Starlette. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+
+- [GitHub](https://github.com/smithyhq/sqladmin) (👨‍💻 110 · 🔀 300 · 📦 1.9K · 📋 330 - 10% open · ⏱️ 20.09.2026):
+
+	```
+	git clone https://github.com/aminalaee/sqladmin
+	```
+</details>
 <details><summary><b><a href="https://github.com/jowilf/starlette-admin">starlette-admin</a></b> (🥈25 ·  ⭐ 1.1K) - Fast, beautiful and extensible administrative interface.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/jowilf/starlette-admin) (👨‍💻 34 · 🔀 99 · 📦 1.1K · 📋 260 - 0% open · ⏱️ 07.10.2026):
+- [GitHub](https://github.com/jowilf/starlette-admin) (👨‍💻 35 · 🔀 98 · 📦 1.1K · 📋 260 - 0% open · ⏱️ 13.10.2026):
 
 	```
 	git clone https://github.com/jowilf/starlette-admin
@@ -88,6 +88,14 @@ _If you can think of a more appropriate category for the items below, PRs welcom
 	git clone https://github.com/fastapi-admin/fastapi-admin
 	```
 </details>
+<details><summary><b><a href="https://github.com/benavlabs/crudadmin">crudadmin</a></b> (🥈18 ·  ⭐ 450 · 📈) - Modern admin interface for FastAPI with built-in authentication,.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/benavlabs/crudadmin) (👨‍💻 13 · 🔀 32 · 📦 5 · 📋 21 - 14% open · ⏱️ 09.10.2026):
+
+	```
+	git clone https://github.com/benavlabs/crudadmin
+	```
+</details>
 <details><summary><b><a href="https://github.com/vsdudakov/fastadmin">fastadmin</a></b> (🥈18 ·  ⭐ 340) - Easy-to-use admin dashboard (admin panel) for FastAPI, Flask and.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/vsdudakov/fastadmin) (👨‍💻 9 · 🔀 36 · 📦 59 · ⏱️ 16.07.2026):
@@ -98,7 +106,7 @@ _If you can think of a more appropriate category for the items below, PRs welcom
 </details>
 <details><summary><b><a href="https://github.com/jet-admin/jet-bridge">jet-bridge</a></b> (🥉17 ·  ⭐ 1.8K) - Jet Admin No-code Business App builder. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/jet-admin/jet-bridge) (👨‍💻 4 · 🔀 160 · 📋 27 - 40% open · ⏱️ 18.08.2026):
+- [GitHub](https://github.com/jet-admin/jet-bridge) (👨‍💻 4 · 🔀 160 · 📋 27 - 40% open · ⏱️ 09.10.2026):
 
 	```
 	git clone https://github.com/jet-admin/jet-bridge
@@ -120,14 +128,6 @@ _If you can think of a more appropriate category for the items below, PRs welcom
 	git clone https://github.com/piccolo-orm/piccolo_admin
 	```
 </details>
-<details><summary><b><a href="https://github.com/benavlabs/crudadmin">crudadmin</a></b> (🥉17 ·  ⭐ 460) - Modern admin interface for FastAPI with built-in authentication, event.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/benavlabs/crudadmin) (👨‍💻 13 · 🔀 32 · 📦 5 · 📋 21 - 14% open · ⏱️ 08.10.2026):
-
-	```
-	git clone https://github.com/benavlabs/crudadmin
-	```
-</details>
 <details><summary><b><a href="https://github.com/xnuinside/gino-admin">gino-admin</a></b> (🥉10 ·  ⭐ 49 · 💤) - Admin Panel for GinoORM - ready to up & run (just add your models). <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/xnuinside/gino-admin) (👨‍💻 4 · 🔀 9 · 📦 8 · 📋 11 - 54% open · ⏱️ 11.10.2022):
@@ -144,7 +144,7 @@ _If you can think of a more appropriate category for the items below, PRs welcom
 	git clone https://github.com/self-evolving-runtimes/revolve
 	```
 </details>
-<details><summary><b><a href="https://github.com/mr-fatalyst/oxyde-admin">oxyde-admin</a></b> (🥉9 ·  ⭐ 41) - Oxyde Admin Auto-generated admin panel for Oxyde ORM with zero.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/mr-fatalyst/oxyde-admin">oxyde-admin</a></b> (🥉8 ·  ⭐ 41 · 📉) - Oxyde Admin Auto-generated admin panel for Oxyde ORM with zero.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/mr-fatalyst/oxyde-admin) (📥 11 · 📋 3 - 66% open · ⏱️ 13.08.2026):
 
@@ -168,15 +168,15 @@ _If you can think of a more appropriate category for the items below, PRs welcom
 
 _Projects that reskin or extend Django's built-in admin rather than providing a standalone admin panel._
 
-<details><summary><b><a href="https://github.com/unfoldadmin/django-unfold">django-unfold</a></b> (🥇29 ·  ⭐ 3.7K · 📈) - Modern Django Admin. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/unfoldadmin/django-unfold">django-unfold</a></b> (🥇29 ·  ⭐ 3.7K) - Modern Django Admin. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/unfoldadmin/django-unfold) (👨‍💻 76 · 🔀 370 · 📦 2K · ⏱️ 08.10.2026):
+- [GitHub](https://github.com/unfoldadmin/django-unfold) (👨‍💻 76 · 🔀 380 · 📦 2K · ⏱️ 13.10.2026):
 
 	```
 	git clone https://github.com/unfoldadmin/django-unfold
 	```
 </details>
-<details><summary><b><a href="https://github.com/farridav/django-jazzmin">django-jazzmin</a></b> (🥈28 ·  ⭐ 1.9K · 📈) - Jazzy theme for Django. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/farridav/django-jazzmin">django-jazzmin</a></b> (🥈28 ·  ⭐ 1.9K) - Jazzy theme for Django. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/farridav/django-jazzmin) (👨‍💻 80 · 🔀 320 · 📦 18K · 📋 320 - 46% open · ⏱️ 16.06.2026):
 
@@ -186,7 +186,7 @@ _Projects that reskin or extend Django's built-in admin rather than providing a 
 </details>
 <details><summary><b><a href="https://github.com/fabiocaccamo/django-admin-interface">django-admin-interface</a></b> (🥈26 ·  ⭐ 2K) - djangos default admin interface with superpowers -.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/fabiocaccamo/django-admin-interface) (👨‍💻 46 · 🔀 190 · 📦 5.3K · 📋 220 - 5% open · ⏱️ 02.09.2026):
+- [GitHub](https://github.com/fabiocaccamo/django-admin-interface) (👨‍💻 46 · 🔀 190 · 📦 5.3K · 📋 220 - 5% open · ⏱️ 13.10.2026):
 
 	```
 	git clone https://github.com/fabiocaccamo/django-admin-interface
@@ -208,9 +208,9 @@ _Projects that reskin or extend Django's built-in admin rather than providing a 
 	git clone https://github.com/geex-arts/django-jet
 	```
 </details>
-<details><summary><b><a href="https://github.com/otto-torino/django-baton">django-baton</a></b> (🥉21 ·  ⭐ 1K) - A cool, modern and responsive django admin application based on.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/otto-torino/django-baton">django-baton</a></b> (🥉22 ·  ⭐ 1K · 📈) - A cool, modern and responsive django admin application based on.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/otto-torino/django-baton) (👨‍💻 19 · 🔀 96 · 📦 470 · 📋 200 - 1% open · ⏱️ 30.09.2026):
+- [GitHub](https://github.com/otto-torino/django-baton) (👨‍💻 19 · 🔀 96 · 📦 470 · 📋 200 - 1% open · ⏱️ 14.10.2026):
 
 	```
 	git clone https://github.com/otto-torino/django-baton
@@ -226,7 +226,7 @@ _Projects that reskin or extend Django's built-in admin rather than providing a 
 </details>
 <details><summary><b><a href="https://github.com/SmartBase-SK/django-smartbase-admin">django-smartbase-admin</a></b> (🥉13 ·  ⭐ 130) - SmartBase Admin application for Django. A modern,.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/SmartBase-SK/django-smartbase-admin) (👨‍💻 17 · 🔀 10 · 📦 3 · 📋 3 - 66% open · ⏱️ 25.09.2026):
+- [GitHub](https://github.com/SmartBase-SK/django-smartbase-admin) (👨‍💻 17 · 🔀 10 · 📦 3 · 📋 3 - 66% open · ⏱️ 15.10.2026):
 
 	```
 	git clone https://github.com/SmartBase-SK/django-smartbase-admin
