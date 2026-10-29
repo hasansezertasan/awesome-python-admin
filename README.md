@@ -50,18 +50,10 @@ _If you can think of a more appropriate category for the items below, PRs welcom
 
 <details><summary><b><a href="https://github.com/pallets-eco/flask-admin">flask-admin</a></b> (🥇33 ·  ⭐ 6.1K) - Simple and extensible administrative interface framework for Flask. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/pallets-eco/flask-admin) (👨‍💻 400 · 🔀 1.6K · 📥 920 · 📦 33K · 📋 1.5K - 5% open · ⏱️ 13.10.2026):
+- [GitHub](https://github.com/pallets-eco/flask-admin) (👨‍💻 400 · 🔀 1.6K · 📥 980 · 📦 33K · 📋 1.5K - 5% open · ⏱️ 28.10.2026):
 
 	```
 	git clone https://github.com/pallets-eco/flask-admin
-	```
-</details>
-<details><summary><b><a href="https://github.com/dpgaspar/Flask-AppBuilder">flask-appbuilder</a></b> (🥇26 ·  ⭐ 5K) - Simple and rapid application development framework, built on.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
-
-- [GitHub](https://github.com/dpgaspar/Flask-AppBuilder) (👨‍💻 230 · 🔀 1.4K · 📋 1.3K - 15% open · ⏱️ 22.10.2026):
-
-	```
-	git clone https://github.com/dpgaspar/Flask-AppBuilder
 	```
 </details>
 <details><summary><b><a href="https://github.com/smithyhq/sqladmin">sqladmin</a></b> (🥇26 ·  ⭐ 2.8K) - SQLAlchemy Admin for FastAPI and Starlette. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
@@ -72,9 +64,17 @@ _If you can think of a more appropriate category for the items below, PRs welcom
 	git clone https://github.com/aminalaee/sqladmin
 	```
 </details>
+<details><summary><b><a href="https://github.com/dpgaspar/Flask-AppBuilder">flask-appbuilder</a></b> (🥈25 ·  ⭐ 5K · 📉) - Simple and rapid application development framework, built.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+
+- [GitHub](https://github.com/dpgaspar/Flask-AppBuilder) (👨‍💻 230 · 🔀 1.4K · 📋 1.3K - 15% open · ⏱️ 22.10.2026):
+
+	```
+	git clone https://github.com/dpgaspar/Flask-AppBuilder
+	```
+</details>
 <details><summary><b><a href="https://github.com/jowilf/starlette-admin">starlette-admin</a></b> (🥈25 ·  ⭐ 1.1K) - Fast, beautiful and extensible administrative interface.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/jowilf/starlette-admin) (👨‍💻 35 · 🔀 98 · 📦 1.1K · 📋 260 - 0% open · ⏱️ 20.10.2026):
+- [GitHub](https://github.com/jowilf/starlette-admin) (👨‍💻 35 · 🔀 99 · 📦 1.1K · 📋 260 - 1% open · ⏱️ 26.10.2026):
 
 	```
 	git clone https://github.com/jowilf/starlette-admin
@@ -170,7 +170,7 @@ _Projects that reskin or extend Django's built-in admin rather than providing a 
 
 <details><summary><b><a href="https://github.com/unfoldadmin/django-unfold">django-unfold</a></b> (🥇29 ·  ⭐ 3.7K) - Modern Django Admin. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/unfoldadmin/django-unfold) (👨‍💻 76 · 🔀 380 · 📦 2K · ⏱️ 22.10.2026):
+- [GitHub](https://github.com/unfoldadmin/django-unfold) (👨‍💻 76 · 🔀 370 · 📦 2.1K · ⏱️ 24.10.2026):
 
 	```
 	git clone https://github.com/unfoldadmin/django-unfold
@@ -184,7 +184,7 @@ _Projects that reskin or extend Django's built-in admin rather than providing a 
 	git clone https://github.com/farridav/django-jazzmin
 	```
 </details>
-<details><summary><b><a href="https://github.com/fabiocaccamo/django-admin-interface">django-admin-interface</a></b> (🥈27 ·  ⭐ 2K · 📈) - djangos default admin interface with superpowers -.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/fabiocaccamo/django-admin-interface">django-admin-interface</a></b> (🥈27 ·  ⭐ 2K) - djangos default admin interface with superpowers -.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/fabiocaccamo/django-admin-interface) (👨‍💻 46 · 🔀 190 · 📦 5.3K · 📋 220 - 5% open · ⏱️ 19.10.2026):
 
@@ -192,28 +192,28 @@ _Projects that reskin or extend Django's built-in admin rather than providing a 
 	git clone https://github.com/fabiocaccamo/django-admin-interface
 	```
 </details>
-<details><summary><b><a href="https://github.com/sehmaschine/django-grappelli">django-grappelli</a></b> (🥉24 ·  ⭐ 3.9K · 📈) - A jazzy skin for the Django Admin-Interface (official.. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/sehmaschine/django-grappelli">django-grappelli</a></b> (🥉24 ·  ⭐ 3.9K) - A jazzy skin for the Django Admin-Interface (official.. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/sehmaschine/django-grappelli) (👨‍💻 93 · 🔀 640 · 📦 6.9K · 📋 740 - 0% open · ⏱️ 16.10.2026):
+- [GitHub](https://github.com/sehmaschine/django-grappelli) (👨‍💻 93 · 🔀 630 · 📦 6.9K · 📋 750 - 0% open · ⏱️ 16.10.2026):
 
 	```
 	git clone https://github.com/sehmaschine/django-grappelli
 	```
 </details>
-<details><summary><b><a href="https://github.com/geex-arts/django-jet">django-jet</a></b> (🥉22 ·  ⭐ 3.6K · 💤) - Modern responsive template for the Django admin interface.. <code><a href="http://bit.ly/3pwmjO5">❗️AGPL-3.0</a></code></summary>
+<details><summary><b><a href="https://github.com/otto-torino/django-baton">django-baton</a></b> (🥉24 ·  ⭐ 1K · 📈) - A cool, modern and responsive django admin application based on.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/geex-arts/django-jet) (👨‍💻 29 · 🔀 660 · 📦 3.4K · 📋 350 - 62% open · ⏱️ 26.11.2025):
-
-	```
-	git clone https://github.com/geex-arts/django-jet
-	```
-</details>
-<details><summary><b><a href="https://github.com/otto-torino/django-baton">django-baton</a></b> (🥉22 ·  ⭐ 1K) - A cool, modern and responsive django admin application based on.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/otto-torino/django-baton) (👨‍💻 19 · 🔀 96 · 📦 470 · 📋 200 - 1% open · ⏱️ 14.10.2026):
+- [GitHub](https://github.com/otto-torino/django-baton) (👨‍💻 21 · 🔀 98 · 📦 470 · ⏱️ 29.10.2026):
 
 	```
 	git clone https://github.com/otto-torino/django-baton
+	```
+</details>
+<details><summary><b><a href="https://github.com/geex-arts/django-jet">django-jet</a></b> (🥉22 ·  ⭐ 3.6K · 💤) - Modern responsive template for the Django admin interface.. <code><a href="http://bit.ly/3pwmjO5">❗️AGPL-3.0</a></code></summary>
+
+- [GitHub](https://github.com/geex-arts/django-jet) (👨‍💻 29 · 🔀 650 · 📦 3.4K · 📋 350 - 62% open · ⏱️ 26.11.2025):
+
+	```
+	git clone https://github.com/geex-arts/django-jet
 	```
 </details>
 <details><summary><b><a href="https://github.com/darklow/django-suit">django-suit</a></b> (🥉20 ·  ⭐ 2.4K · 💤) - Modern theme for Django admin interface. <code>❗Unlicensed</code></summary>
@@ -224,9 +224,9 @@ _Projects that reskin or extend Django's built-in admin rather than providing a 
 	git clone https://github.com/darklow/django-suit
 	```
 </details>
-<details><summary><b><a href="https://github.com/SmartBase-SK/django-smartbase-admin">django-smartbase-admin</a></b> (🥉14 ·  ⭐ 130 · 📈) - SmartBase Admin application for Django. A modern,.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/SmartBase-SK/django-smartbase-admin">django-smartbase-admin</a></b> (🥉14 ·  ⭐ 130) - SmartBase Admin application for Django. A modern,.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/SmartBase-SK/django-smartbase-admin) (👨‍💻 17 · 🔀 10 · 📦 3 · ⏱️ 21.10.2026):
+- [GitHub](https://github.com/SmartBase-SK/django-smartbase-admin) (👨‍💻 17 · 🔀 10 · 📦 3 · ⏱️ 27.10.2026):
 
 	```
 	git clone https://github.com/SmartBase-SK/django-smartbase-admin
